@@ -1,24 +1,30 @@
-## Introduction
+# Introduction
 
-
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Aerospace Engineerig
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Aerodyamics Lab
+<b> Experiment|     <b> Verification and application of Bernoulli's equation and Experiment 1
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To study the principle and dependent parameters of advanced welding processes like laser welding and friction stir welding.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
-:--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+# Subject Matter Experts
+| SNo. | Name | Email | Department | Institute | Profile |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | **Prof. Sandeep Saha** | **ssaha@aero.iitkgp.ac.in** | **Department of Aerospace Engineering**| **Indian Institute of Technology Kharagpur** | ***[Profile](https://www.iitkgp.ac.in/department/AE/faculty/ae-ssaha)*** |
 
-### Contributors List
+## Developer and Integration Engineer
+| SrNo | Name | Designation | Department | Institute |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | **Aditya Kameswara Rao Nandula** | Senior Project Scientist | Department of Mechanical Engineering | IIT Kharagpur |
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+## Developer and Contributors
+| SrNo | Name | Degree | Department | Institute |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | **Amit Pawar** | Ph.D. | Department of Aerospace Engineerig | IIT Kharagpur |
+| 2 | **Sanat Ranjan** | Ph.D. | Department of Aerospace Engineerig | IIT Kharagpur |
+| 3 | **Arib Shan** | B.Tech. | Department of Aerospace Engineerig | IIT Kharagpur |
+| 4 | **Anmol Agarwal** | B.Tech. | Department of Aerospace Engineerig | IIT Kharagpur |
+| 5 | **Mohd Gufran Ansar** | B.Tech. | Department of Aerospace Engineerig | IIT Kharagpur |
+| 6 | **Mayank Baid** | B.Tech. | Department of Aerospace Engineerig | IIT Kharagpur |
