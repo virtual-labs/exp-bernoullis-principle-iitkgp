@@ -1,39 +1,61 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Stagnation pressure or the total pressure is the sum of",
+        "answers": {
+          "a": "Kinetic and potential energy",
+          "b": "Static and dynamic pressure",
+          "c": "Kinetic energy, potential energy and gravity",
+          "d": "Cannot be determined"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The relation between pressure and velocity in an inviscid, incompressible flow is given by",
+        "answers": {
+          "a": "P = constant",
+          "b": "P + 0.5&#x3C1;*V*V = constant",
+          "c": "0.5&#x3C1;*V*V = 0",
+          "d": "P + 0.5&#x3C1;*V*V = 0"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "Why pressure measurements were taken at the center of the section?",
+        "answers": {
+          "a": "To avoid rotational effect.",
+          "b": "To avoid unsteady effect.",
+          "c": "To avoid viscosity effect.",
+          "d": "Will not make any difference"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "Which of the following  is not an assumption of Bernoulli's theorem?",
+        "answers": {
+          "a": "Steady flow",
+          "b": "Inviscid flow",
+          "c": "Incompressible flow",
+          "d": "Rotational flow"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "What is adverse pressure gradient?",
+        "answers": {
+          "a": "the Static pressure decreases along the direction of fluid motion.",
+          "b": "the Stagnation pressure decreases along the direction of fluid motion.",
+          "c": "the Static pressure increases along the direction of fluid motion.",
+          "d": "the Stagnation pressure increases along the direction of fluid motion."
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  

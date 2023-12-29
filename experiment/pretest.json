@@ -1,39 +1,61 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Bernoulli's equation is applicable only for?",
+        "answers": {
+          "a": "Irrotational flow",
+          "b": "Viscous flow",
+          "c": "Inviscid, incompressible flow",
+          "d": "Compressible flow"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The point where the fluid brought to rest isentropically is called as",
+        "answers": {
+          "a": "Rest point",
+          "b": "Stagnation point",
+          "c": "Viscous point",
+          "d": "Boundary layer point"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "Bernouli's principle is derived from",
+        "answers": {
+          "a": "Conservation of mass",
+          "b": "Conservation of energy",
+          "c": "Newton's law of motion",
+          "d": "Conservation of momentum"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The dynamic pressure is given by",
+        "answers": {
+          "a": "0.5*&#x3C1;*V*V",
+          "b": "&#x3C1;*V",
+          "c": "3*&#x3C1;*V",
+          "d": "0.5*&#x3C1;*V"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "For an ideal gas the pressure can be given by",
+        "answers": {
+          "a": "PV=nRT",
+          "b": "PV=RT",
+          "c": "PV=T",
+          "d": "PR=VT"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
